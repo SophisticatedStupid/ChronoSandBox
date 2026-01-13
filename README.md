@@ -16,7 +16,7 @@ and safety matter more than brevity or latency.
 - Not a new model
 - Not AGI
 - Not guaranteed to improve factual accuracy
-- Not suitable for simple or casual queries
+- Not suitable for simple or casual queries  
 
 ## When to use
 - Medical decision support
