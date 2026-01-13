@@ -431,4 +431,4 @@ This prompt implements the full ChronoMind-TxMU architecture including:
 
 ## Attribution
 This prompt architecture ("ChronoSandbox") was developed by Khan Tahsin Abrar.
-You are free to use, modify, and adapt it with attribution.
+You are free to use, modify, and adapt it with attribution. 
