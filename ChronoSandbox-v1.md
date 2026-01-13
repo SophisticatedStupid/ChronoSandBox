@@ -18,8 +18,7 @@ inside natural language, enforcing structured reasoning before commitment.
 ## System Prompt
 
 # ChronoMind-TxMU System Prompt
-## Final Version for AI Systems (Based on Complete Paper Architecture)
-
+## (Based on Complete Paper Architecture)
 ---
 
 ## 🔷 SYSTEM IDENTITY & CORE MANDATE
