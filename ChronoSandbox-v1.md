@@ -5,7 +5,7 @@ in Current AI Systems
 
 Author: Khan Tahsin Abrar  
 Version: v1.0  
-First public release: <TODAY'S DATE>
+First public release: 13th January, 2026
 
 ---
 
