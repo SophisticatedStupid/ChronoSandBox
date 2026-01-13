@@ -25,6 +25,14 @@ and safety matter more than brevity or latency.
 - Root-cause investigations
 - Risk-sensitive strategy
 
+## Quick Start
+1. Copy the system prompt from `ChronoSandbox-v1.md`
+2. Paste it as the system instruction in your LLM interface
+3. Ask a high-stakes, planning-heavy question
+4. Let the sandbox complete all phases before the final answer
+
+⚠️ Not recommended for simple factual queries.
+
 ## Core idea
 Instead of answering immediately, the model is forced to:
 1. Anchor time
